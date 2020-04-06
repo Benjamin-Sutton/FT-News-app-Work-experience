@@ -1,0 +1,22 @@
+{
+  "name": "ft-news-app-work-experience",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benjamin-Sutton/FT-News-app-Work-experience.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benjamin-Sutton/FT-News-app-Work-experience/issues"
+  },
+  "homepage": "https://github.com/Benjamin-Sutton/FT-News-app-Work-experience#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
