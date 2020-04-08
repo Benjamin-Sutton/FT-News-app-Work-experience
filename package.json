@@ -19,5 +19,6 @@
   "homepage": "https://github.com/Benjamin-Sutton/FT-News-app-Work-experience#readme",
   "dependencies": {
     "express": "^4.17.1"
-  }
+  },
+  "devDependencies": {}
 }
